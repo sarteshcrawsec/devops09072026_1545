@@ -1,0 +1,8 @@
+---
+- name: test playbook
+  hosts: 192.168.1.27
+  tasks:
+    - name: create user
+      ansible.builtin.user:
+        name: mohit
+        state: present
