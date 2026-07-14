@@ -5,3 +5,9 @@ fruits:
   - pear
   - strawberry
   - mango
+
+vegetables:
+  - broccoli
+  - celery
+  - lettuce
+  - spinach
